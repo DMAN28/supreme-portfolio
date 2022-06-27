@@ -23,6 +23,7 @@ row-gap: 3rem;
 
 `
 export const BlogCard = styled.div`
+  background : #06333A;
   border-radius: 10px;
   box-shadow: 3px 3px 20px rgba(80, 78, 78, 0.5);
   text-align: center;
@@ -42,7 +43,7 @@ export const TitleContent = styled.div`
 export const HeaderThree = styled.h3`
   font-weight: 500;
   letter-spacing: 2px;
-  color: #9cc9e3;
+  color: rgba(255,255,255,0.5);
   padding: .5rem 0;
   font-size: ${(props) => props.title ? '3rem' : '2rem'};
 `;
@@ -52,7 +53,7 @@ export const Hr = styled.hr`
   height: 3px;
   margin: 20px auto;
   border: 0;
-  background: #d0bb57;
+  background: #DF8926;
 `;
 
 export const Intro = styled.div`

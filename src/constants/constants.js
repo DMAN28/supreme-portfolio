@@ -1,7 +1,7 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    title: 'F1 HASS site',
+    description: "Using HTML, CSS, Javascript I designed a tribute site to the only American team and Formula one racing. It features a responsive header along with a live twitter feed that updates based on key word related to formula one.",
       image: '/images/1.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
     source: 'https://google.com',
@@ -9,8 +9,8 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'E-Commerce',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    title: 'Scheduler App',
+    description:"A scheduler application designed to showcase Javascript",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://google.com',
@@ -18,8 +18,8 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'WebRTC App',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    title: 'CLI crypto app',
+    description: "A CLI application that enable s user with a Nomics API key to track top performing crypto assets",
       image: '/images/3.jpg',
       tags: ['React', 'WebRTC'],
     source: 'https://google.com',
