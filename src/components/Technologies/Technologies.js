@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiStreamline, DiReact, DiJekyllSmall } from 'react-icons/di';
+import { DiStreamline, DiReact } from 'react-icons/di';
 import { FaLaptopMedical } from 'react-icons/fa';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';

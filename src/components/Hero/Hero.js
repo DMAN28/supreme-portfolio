@@ -8,10 +8,10 @@ const Hero = () => (
   <Section row nopadding>
    <LeftSection>
     <SectionTitle main center>
-      Welcome to my<br/>
-      Personal Portfolio
+      Hello <br/>
+      Welcome to my portfolio
     </SectionTitle>
-    <SectionText>Hello my name is David and I'm a Fullstack web developer with an extensive experience within the medical field using and interacting with Electronic health records (EHR) and Lab information systems (LIS). Successfully helped restructure clinic wide workflow to improve communication  by implementing Agile principles. I’m looking to leverage my ability to work in a high paced attention to detail oriented environments to help build great web applications.</SectionText>
+    <SectionText>My name is David I'm a Fullstack web developer with an extensive experience within the medical field using and interacting with Electronic health records (EHR) and Lab information systems (LIS). I’m eager to utilize my abilities to adapt and execute in high paced attention to detail oriented environments to build great web applications.</SectionText>
     <Button onClick={()=> window.location = 'https://www.google.com'}>Learn more</Button>
    </LeftSection>
   </Section>
