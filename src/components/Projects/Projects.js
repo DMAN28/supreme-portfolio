@@ -29,6 +29,10 @@ const Projects = () => (
                 ))}
               </TagList>
             </div>
+            <UtilityList>
+              <ExternalLinks href={visit}>Code</ExternalLinks>
+              <ExternalLinks href={source}>Site</ExternalLinks>
+            </UtilityList>
           </BlogCard>
       ))}
     </GridContainer>
