@@ -5,8 +5,9 @@ import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
 const Technologies = () =>  (
-  <Section id="tech">
+  <Section nopadding id="tech">
     <SectionDivider/>
+
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       Technologies which I have worked with
