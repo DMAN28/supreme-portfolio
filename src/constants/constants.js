@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/1.png',
       tags: ['HTML', 'CSS', 'JavaScript',],
     source: 'https://turbo-boat.herokuapp.com/',
-    visit: 'https://dman28.github.io/turbo-spork/',
+    visit: 'https://github.com/DMAN28/turbo-spork',
     id: 0,
   },
   {
@@ -31,7 +31,7 @@ export const projects = [
     description: "This progressive web application allows the user to quickly and easily manage finances when they are online or offline.",
     image: '/images/4.jpg',
     tags: ['Express', 'Morgan', 'Mongoose'],
-    source: 'https://github.com/DMAN28/potential-carnival',
+    source: 'https://shekel-stack-app.herokuapp.com/',
     visit: 'https://github.com/DMAN28/potential-carnival',
     id: 3,
   },
@@ -44,9 +44,18 @@ export const projects = [
     visit: 'https://github.com/ChristopherLawn/learn-code-work',
     id: 4,
   },
+  {
+    title: 'Beat Hub',
+    description: "A platform used to share and discuss music with friends allows the user to login save and comment on albums built with MERN stack",
+    image: '/images/6.jpg',
+    tags: ['React', 'ApolloServer', 'Node' , 'GraphQL'],
+    source: 'https://blooming-tundra-89879.herokuapp.com/',
+    visit: 'https://github.com/heatherviolet/beat-hub',
+    id: 5,
+  },
 ];
 
 export const TimeLineData = [
   { year: 2021, text: 'Started University of Oregon Full stack web development program', },
-  { year: 2022, text: 'Completed Full stack web development program', },
+  { year: 2022, text: 'Completed Certificate in Full Stack Web Development from The University of Oregon ', },
 ];
