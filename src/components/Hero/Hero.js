@@ -12,7 +12,7 @@ const Hero = () => (
       Welcome to my portfolio
     </SectionTitle>
     <SectionText>My name is David I'm a Fullstack web developer with an extensive experience within the medical field using and interacting with Electronic health records (EHR) and Lab information systems (LIS). I’m eager to utilize my abilities to adapt and execute in high-paced attention detail-oriented environments and use these skills to build great web applications.</SectionText>
-    <Button onClick={()=> window.location = 'https://docs.google.com/document/d/1qwl0JGVMBfy4CNLkD9amS7FEsjrBXs0SzMnoB0A02CM/edit?usp=sharing'}>Resume</Button>
+    <Button onClick={()=> window.location = 'https://docs.google.com/document/d/e/2PACX-1vROH0rCZUqR3rn9a0prXzNXIwLaU7ljrt-25-ArdN0itaLgAXg2RUHRtX80O6driRPGP5zWb5THA4fB/pub'}>Resume</Button>
    </LeftSection>
   </Section>
 );

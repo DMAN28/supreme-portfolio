@@ -41,7 +41,7 @@ export const projects = [
     image: '/images/5.jpg',
     tags: ['JavaScript', 'CSS', 'Node'],
     source: 'https://damp-journey-96412.herokuapp.com/',
-    visit: 'https://github.com/ChristopherLawn/learn-code-work',
+    visit: 'https://github.com/DMAN28/learn-code-work',
     id: 4,
   },
   {
@@ -50,7 +50,7 @@ export const projects = [
     image: '/images/6.jpg',
     tags: ['React', 'ApolloServer', 'Node' , 'GraphQL'],
     source: 'https://blooming-tundra-89879.herokuapp.com/',
-    visit: 'https://github.com/heatherviolet/beat-hub',
+    visit: 'https://github.com/DMAN28/beat-hub',
     id: 5,
   },
 ];
