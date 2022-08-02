@@ -37,7 +37,7 @@ export const projects = [
   },
   {
     title: 'Learn it',
-    description: "This was a team project designed to help users find and share learning resources for computer coding.",
+    description: "This was a team project designed to help users find and share learning resources for computer coding. Interested in learning checkout the site using the following EMAIL: mitts@gmail.com PASSWORD: 123456",
     image: '/images/5.jpg',
     tags: ['JavaScript', 'CSS', 'Node'],
     source: 'https://damp-journey-96412.herokuapp.com/',
@@ -46,8 +46,8 @@ export const projects = [
   },
   {
     title: 'Beat Hub',
-    description: "A platform used to share and discuss music with friends allows the user to login save and comment on albums built with MERN stack",
-    image: '/images/6.jpg',
+    description: "A platform used to share and discuss music with friends allows the user to login save and comment on albums built with MERN stack. Try it out with this guest log in  EMAIL: mitts@gmail.com PASSWORD: 123456",
+    image: '/images/6.png',
     tags: ['React', 'ApolloServer', 'Node' , 'GraphQL'],
     source: 'https://blooming-tundra-89879.herokuapp.com/',
     visit: 'https://github.com/DMAN28/beat-hub',
