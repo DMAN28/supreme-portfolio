@@ -27,12 +27,12 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Budget Tracker',
-    description: "This progressive web application allows the user to quickly and easily manage finances when they are online or offline.",
+    title: 'Scheduler app',
+    description: "This planner application was created to give a user the ability to manage and track daily activities.",
     image: '/images/4.jpg',
-    tags: ['Express', 'Morgan', 'Mongoose'],
-    source: 'https://shekel-stack-app.herokuapp.com/',
-    visit: 'https://github.com/DMAN28/potential-carnival',
+    tags: ['HTML', 'CSS', 'JavaScript,'],
+    source: 'https://dman28.github.io/work-day-scheduler/',
+    visit: 'https://github.com/DMAN28/work-day-scheduler',
     id: 3,
   },
   {
